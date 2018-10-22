@@ -13,4 +13,5 @@ This application is set to run with a working InfluxDB
 
 The application can thus be executed by executing app.py
 
+The server should be running at "127.0.0.1:5000/"
 
